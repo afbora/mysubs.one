@@ -1,7 +1,7 @@
 {
   "name": "afbora/mysubs.one",
   "description": "mysubs.one",
-  "license": "proprietary",
+  "license": "MIT",
   "type": "kirby-cms",
   "version": "1.0.0",
   "require": {
