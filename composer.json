@@ -1,0 +1,17 @@
+{
+  "name": "afbora/mysubs.one",
+  "description": "mysubs.one",
+  "license": "proprietary",
+  "type": "kirby-cms",
+  "version": "1.0.0",
+  "require": {
+    "php": "~8.2.0 || ~8.3.0"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "platform": {
+      "php": "8.2.0"
+    },
+    "platform-check": false
+  }
+}
